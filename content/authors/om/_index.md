@@ -1,5 +1,6 @@
 ---
 title: OM
-avatar_filename: avatar
+role: " PROFESSOR OF AI"
+avatar_filename: logo.png
 superuser: false
 ---
