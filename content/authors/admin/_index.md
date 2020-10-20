@@ -1,12 +1,13 @@
 ---
+title: Roshan Lal Gumasta
+role: Professor of Artificial Intelligence
+avatar_filename: 123letswalk500x500.png
 organizations:
   - name: Stanford University
     url: ""
 superuser: true
 authors:
   - admin
-title: Roshan Lal Gumasta
-role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
